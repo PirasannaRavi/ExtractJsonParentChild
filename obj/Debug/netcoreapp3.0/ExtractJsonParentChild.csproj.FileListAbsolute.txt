@@ -1,0 +1,14 @@
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/ExtractJsonParentChild
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/ExtractJsonParentChild.deps.json
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/ExtractJsonParentChild.runtimeconfig.json
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/ExtractJsonParentChild.runtimeconfig.dev.json
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/ExtractJsonParentChild.dll
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/ExtractJsonParentChild.pdb
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.csprojAssemblyReference.cache
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.csproj.CoreCompileInputs.cache
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.AssemblyInfoInputs.cache
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.AssemblyInfo.cs
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.dll
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.pdb
+/Users/Alligator/Projects/ExtractJsonParentChild/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/Alligator/Projects/ExtractJsonParentChild/obj/Debug/netcoreapp3.0/ExtractJsonParentChild.csproj.CopyComplete

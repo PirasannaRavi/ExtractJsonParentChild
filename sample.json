@@ -1,0 +1,101 @@
+{
+    "TestSources": [
+        {
+            "Id": "A",
+            "Name": "Test",
+            "Value": true,
+            "TestGroups": [
+                {
+                    "Id": "A.1",
+                    "Name": "Test",
+                    "Value": true,
+                    "TestGroups": [
+                        {
+                            "Id": "A.1.1",
+                            "Name": "Test",
+                            "Value": true,
+                            "TestGroups": [
+                                {
+                                    "Id": "A.1.1.1",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                },
+                                {
+                                    "Id": "A.1.1.2",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                }
+                            ]
+                        },
+                        {
+                            "Id": "A.1.2",
+                            "Name": "Test",
+                            "Value": true,
+                            "TestGroups": [
+                                {
+                                    "Id": "A.1.2.1",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                },
+                                {
+                                    "Id": "A.1.2.2",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Id": "A.2",
+                    "Name": "Test",
+                    "Value": true,
+                    "TestGroups": [
+                        {
+                            "Id": "A.2.1",
+                            "Name": "Test",
+                            "Value": true,
+                            "TestGroups": [
+                                {
+                                    "Id": "A.2.1.1",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                },
+                                {
+                                    "Id": "A.2.1.2",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                }
+                            ]
+                        },
+                        {
+                            "Id": "A.2.2",
+                            "Name": "Test",
+                            "Value": true,
+                            "TestGroups": [
+                                {
+                                    "Id": "A.2.2.1",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                },
+                                {
+                                    "Id": "A.2.2.2",
+                                    "Name": "Test",
+                                    "Value": true,
+                                    "TestGroups": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
